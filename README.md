@@ -34,7 +34,7 @@ Configuration module:
         <provider name="events-rest" enabled="true">
             <properties>
                 <property name="excludes" value="[]"/>
-                <property name="operationsUrl" value="http://example.com/events"/>
+                <property name="eventsUrl" value="http://example.com/events"/>
                 <property name="excludesOperations" value="[]"/>
                 <property name="operationsUrl" value="http://example.com/operations"/>
             </properties>
